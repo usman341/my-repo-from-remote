@@ -7,6 +7,7 @@ body{
 }
 #profilw-container{
     max-width: 300px;
+    margin: auto;
     background-color: azure;
     border: 1px solid gray;
     border-radius: 6px;
