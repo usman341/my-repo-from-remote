@@ -1,6 +1,8 @@
 body{
     width: 100%;
-    margin: 30px;
+    height: 100%;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
     background-color: antiquewhite;
 }
 #profilw-container{
